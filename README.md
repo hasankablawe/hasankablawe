@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hasan Kablawe!
 
-I'm an **AI Developer** from Egypt, specializing in **Computer Vision**, **Natural Language Processing**, and **Machine Learning**. Fluent in **English** and **Arabic**, I craft innovative AI solutions using Python, TensorFlow, PyTorch, and OpenCV. Passionate about coding and open-source collaboration, I'm eager to explore new AI opportunities!
+I'm an **AI Developer** from Syria, specializing in **Computer Vision**, **Natural Language Processing**, and **Machine Learning**. Fluent in **English** and **Arabic**, I craft innovative AI solutions using Python, TensorFlow, PyTorch, and OpenCV. Passionate about coding and open-source collaboration, I'm eager to explore new AI opportunities!
 
 ## 🌟 What I Do
 - Build **Computer Vision** models for object detection, image captioning, and classification.
