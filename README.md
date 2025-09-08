@@ -30,7 +30,8 @@ I'm an **AI Developer** from Syria, specializing in **Computer Vision**, **Natur
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-blue?style=flat-square&logo=jupyter)](https://jupyter.org/)
 
 ## 📬 Connect with Me
-- **LinkedIn**: [linkedin.com/in/hasan-kablawy-5b1340265](https://www.linkedin.com/in/hasan-kablawy-5b1340265)
+- **LinkedIn**: [HERE](https://www.linkedin.com/in/hasan-kablawy-5b1340265)
+- **HUGGING FACE**: [HERE](https://huggingface.co/hasooooonnn)
 - **Email**: [hasankablawe2018@gmail.com](mailto:hasankablawe2018@gmail.com)
 - **Open to**: Full-time roles, freelance projects, and open-source collaborations.
 
