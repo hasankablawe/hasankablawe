@@ -35,7 +35,6 @@ I'm an **AI Developer** from Syria, specializing in **Computer Vision**, **Natur
 - **Open to**: Full-time roles, freelance projects, and open-source collaborations.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasankablawe&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasankablawe&layout=compact&theme=dark)
 ---
 
